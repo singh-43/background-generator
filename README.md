@@ -6,3 +6,5 @@ How to use
 * The first coluor picker is for picking colour for the left side of the page
 * The second colour picker colours the right side of the page.
 * The third colour picker colours the text 
+
+Tutorial of project: https://singh-43.github.io/background-generator/
