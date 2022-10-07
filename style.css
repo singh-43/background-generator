@@ -18,7 +18,16 @@ h1 {
     width: 100%;
 }
 
-h3 {
+div {
+    font: 900 1em 'Raleway', sans-serif;
+    color: rgba(0,0,0,.5);
+    text-align: center;
+    text-transform: none;
+    font-size: 15px;
+    letter-spacing: 0.01em;
+}
+
+h3,h4 {
 	font: 900 1em 'Raleway', sans-serif;
     color: rgba(0,0,0,.5);
     text-align: center;
